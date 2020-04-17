@@ -1,0 +1,112 @@
+{
+  "Employees": [
+    {
+      "UserId": "rirani",
+      "JobTitle": "Developer",
+      "FirstName": "Romin",
+      "LastName": "Irani",
+      "FullName": "Romin Irani",
+      "EmployeeCode": "E1",
+      "Region": "CA",
+      "PhoneNo": "408-1234567",
+      "EmailIdee": "romin.k.irani@gmail.com",
+      "ShowDetails": "true"
+    },
+    {
+      "UserId": "nirani",
+      "JobTitle": "Developer",
+      "FirstName": "Neil",
+      "LastName": "Irani",
+      "FullName": "Neil Irani",
+      "EmployeeCode": "E2",
+      "Region": "CA",
+      "PhoneNo": "408-1111111",
+      "EmailIdee": "neilrirani@gmail.com",
+      "ShowDetails": "true"
+    },
+    {
+      "UserId": "hjoy",
+      "JobTitle": "Program Directory",
+      "FirstName": "hope",
+      "LastName": "joy",
+      "FullName": "Hope Joy",
+      "EmployeeCode": "E3",
+      "Region": "CA",
+      "PhoneNo": "408-2222222",
+      "EmailIdee": "hopejoy@gmail.com",
+      "ShowDetails": "false"
+    },
+    {
+      "UserId": "ndavid",
+      "JobTitle": "Developer",
+      "FirstName": "Nathaniel",
+      "LastName": "David",
+      "FullName": "Nathaniel David",
+      "EmployeeCode": "E1",
+      "Region": "CA",
+      "PhoneNo": "408-1234567",
+      "EmailIdee": "nathaniel.david@gmail.com",
+      "ShowDetails": "false"
+    },
+    {
+      "UserId": "rgrace",
+      "JobTitle": "Developer",
+      "FirstName": "Rebekah",
+      "LastName": "Grace",
+      "FullName": "Rebekah Grace",
+      "EmployeeCode": "E2",
+      "Region": "CA",
+      "PhoneNo": "408-1111111",
+      "EmailIdee": "rebekahgrace@gmail.com",
+      "ShowDetails": "true"
+    },
+    {
+      "UserId": "mmohan",
+      "JobTitle": "Program Directory",
+      "FirstName": "Madhu",
+      "LastName": "Mohan",
+      "FullName": "Madhu Mohan",
+      "EmployeeCode": "E3",
+      "Region": "CA",
+      "PhoneNo": "408-2222222",
+      "EmailIdee": "madhumohan@gmail.com",
+      "ShowDetails": "true"
+    },
+    {
+      "UserId": "nmoses",
+      "JobTitle": "Developer",
+      "FirstName": "Norman",
+      "LastName": "Moses",
+      "FullName": "Nornam Moses",
+      "EmployeeCode": "E1",
+      "Region": "CA",
+      "PhoneNo": "408-1234567",
+      "EmailIdee": "norman.moses@gmail.com",
+      "ShowDetails": "true"
+    },
+    {
+      "UserId": "ledward",
+      "JobTitle": "Developer",
+      "FirstName": "Love",
+      "LastName": "Edward",
+      "FullName": "Love Edward",
+      "EmployeeCode": "E2",
+      "Region": "CA",
+      "PhoneNo": "408-1111111",
+      "EmailIdee": "loveedward@gmail.com",
+      "ShowDetails": "true"
+    },
+    {
+      "UserId": "msane",
+      "JobTitle": "Program Directory",
+      "FirstName": "Mark",
+      "LastName": "Sane",
+      "FullName": "Mark Sane Jeans",
+      "EmployeeCode": "E3",
+      "Region": "CA",
+      "PhoneNo": "408-2222222",
+      "EmailIdee": "markjeans@gmail.com",
+      "ShowDetails": "true"
+    }
+  ]
+}

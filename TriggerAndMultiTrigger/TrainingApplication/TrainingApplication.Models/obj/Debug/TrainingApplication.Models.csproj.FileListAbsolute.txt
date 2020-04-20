@@ -1,0 +1,11 @@
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Core\bin\Debug\TrainingApplication.Models.dll
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Core\bin\Debug\TrainingApplication.Models.pdb
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Models.dll
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Models.pdb
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Models\bin\Debug\Data\Employees.json
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Models\bin\Debug\TrainingApplication.Models.dll
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Models\bin\Debug\TrainingApplication.Models.pdb
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.dll
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.pdb
+C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.csprojAssemblyReference.cache

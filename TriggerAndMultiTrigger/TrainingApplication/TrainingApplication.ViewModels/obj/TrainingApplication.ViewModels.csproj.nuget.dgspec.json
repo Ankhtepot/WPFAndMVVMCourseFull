@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj",
+        "projectName": "TrainingApplication.Core",
+        "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj",
+        "projectName": "TrainingApplication.Models",
+        "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
+        "projectName": "TrainingApplication.ViewModels",
+        "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Kanthi_Pavan_dudday\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kanthi_Pavan_dudday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
+                "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
+              },
+              "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
+                "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

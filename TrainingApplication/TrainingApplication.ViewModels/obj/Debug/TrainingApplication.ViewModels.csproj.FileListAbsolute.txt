@@ -32,3 +32,4 @@ D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.ViewModel
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.ViewModels\obj\Debug\TrainingApplication.ViewModels.csproj.CopyComplete
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.ViewModels\obj\Debug\TrainingApplication.ViewModels.dll
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.ViewModels\obj\Debug\TrainingApplication.ViewModels.pdb
+D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.ViewModels\obj\Debug\TrainingApplication.ViewModels.csproj.CoreCompileInputs.cache

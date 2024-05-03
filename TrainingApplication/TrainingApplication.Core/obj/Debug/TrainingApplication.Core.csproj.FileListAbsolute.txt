@@ -8,3 +8,4 @@ D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Core\bin\
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.csprojAssemblyReference.cache
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.dll
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.pdb
+D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.csproj.CoreCompileInputs.cache

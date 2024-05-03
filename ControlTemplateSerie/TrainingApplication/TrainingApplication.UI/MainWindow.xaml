@@ -31,7 +31,11 @@
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="DataGridCell">
-                        <Border Background="DarkGreen">
+                        <Border 
+                            Background="DarkGreen" 
+                            BorderBrush="DarkGreen"
+                            BorderThickness="2" 
+                            >
                             <ComboBox></ComboBox>
                         </Border>
                     </ControlTemplate>

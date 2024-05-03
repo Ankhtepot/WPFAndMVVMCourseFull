@@ -15,3 +15,4 @@ D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Models\bi
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.csprojAssemblyReference.cache
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.dll
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.pdb
+D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.csproj.CoreCompileInputs.cache

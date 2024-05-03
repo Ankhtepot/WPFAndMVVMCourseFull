@@ -63,3 +63,5 @@ D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.UI\obj\De
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.csproj.CopyComplete
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.exe
 D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.pdb
+D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.UI\bin\Debug\Data\Employees.json
+D:\Csharp\WPF\WPFAndMVVMCourse\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.csproj.CoreCompileInputs.cache

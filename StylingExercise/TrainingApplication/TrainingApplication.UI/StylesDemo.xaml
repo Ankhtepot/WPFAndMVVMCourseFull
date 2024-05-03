@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:TrainingApplication.UI"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="Pee DEE International Limited" Height="300" Width="250" ResizeMode="NoResize">
+      Title="Button styling demo" Height="300" Width="250" ResizeMode="NoResize">
     <Grid>
         <Grid.Resources>
             <Style TargetType="{x:Type Button}">

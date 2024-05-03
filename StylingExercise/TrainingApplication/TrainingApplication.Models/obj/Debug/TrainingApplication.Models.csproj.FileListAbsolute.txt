@@ -16,3 +16,10 @@ D:\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingAppli
 D:\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.csprojAssemblyReference.cache
 D:\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.dll
 D:\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\bin\Debug\Data\Employees.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\bin\Debug\TrainingApplication.Models.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\bin\Debug\TrainingApplication.Models.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.csproj.AssemblyReference.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.csproj.CoreCompileInputs.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\StylingExercise\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.pdb

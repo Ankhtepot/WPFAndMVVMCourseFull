@@ -5,10 +5,14 @@
       "Newtonsoft.Json/12.0.2": {
         "type": "package",
         "compile": {
-          "lib/net45/Newtonsoft.Json.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net45/Newtonsoft.Json.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "TrainingApplication.Core/1.0.0": {
@@ -34,10 +38,47 @@
       "Newtonsoft.Json/12.0.2": {
         "type": "package",
         "compile": {
-          "lib/net45/Newtonsoft.Json.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net45/Newtonsoft.Json.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "TrainingApplication.Core/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TrainingApplication.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrainingApplication.Core.dll": {}
+        }
+      },
+      "TrainingApplication.Models/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TrainingApplication.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrainingApplication.Models.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "Newtonsoft.Json/12.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "TrainingApplication.Core/1.0.0": {
@@ -63,10 +104,14 @@
       "Newtonsoft.Json/12.0.2": {
         "type": "package",
         "compile": {
-          "lib/net45/Newtonsoft.Json.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net45/Newtonsoft.Json.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "TrainingApplication.Core/1.0.0": {
@@ -92,10 +137,14 @@
       "Newtonsoft.Json/12.0.2": {
         "type": "package",
         "compile": {
-          "lib/net45/Newtonsoft.Json.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net45/Newtonsoft.Json.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "TrainingApplication.Core/1.0.0": {
@@ -168,26 +217,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kanthi_Pavan_dudday\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\petrk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
+      "projectUniqueName": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
       "projectName": "TrainingApplication.ViewModels",
-      "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
-      "packagesPath": "C:\\Users\\Kanthi_Pavan_dudday\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\obj\\",
+      "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
+      "packagesPath": "C:\\Users\\petrk\\.nuget\\packages\\",
+      "outputPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Kanthi_Pavan_dudday\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\petrk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net48"
@@ -199,11 +248,11 @@
       "frameworks": {
         "net48": {
           "projectReferences": {
-            "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
-              "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
+            "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
+              "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
             },
-            "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
-              "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
+            "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
+              "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
             }
           }
         }
@@ -223,6 +272,9 @@
       "win": {
         "#import": []
       },
+      "win-arm64": {
+        "#import": []
+      },
       "win-x64": {
         "#import": []
       },
@@ -230,5 +282,21 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json' 12.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-arm64",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
 }

@@ -1,48 +1,56 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {}
+    "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
-      "version": "1.0.0",
+    "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj",
+        "projectUniqueName": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj",
         "projectName": "TrainingApplication.Core",
-        "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
+        "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net48": {}
       }
     },
-    "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
-      "version": "1.0.0",
+    "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj",
+        "projectUniqueName": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj",
         "projectName": "TrainingApplication.Models",
-        "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
+        "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net48": {}
       }
     },
-    "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {
+    "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
+        "projectUniqueName": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
         "projectName": "TrainingApplication.ViewModels",
-        "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\Kanthi_Pavan_dudday\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.ViewModels\\obj\\",
+        "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\petrk\\.nuget\\packages\\",
+        "outputPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kanthi_Pavan_dudday\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\petrk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net48"
@@ -54,11 +62,11 @@
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
-                "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
+              "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
+                "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
               },
-              "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
-                "projectPath": "C:\\Users\\Kanthi_Pavan_dudday\\source\\repos\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
+              "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
+                "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\TriggerAndMultiTrigger\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
               }
             }
           }
@@ -76,6 +84,9 @@
       },
       "runtimes": {
         "win": {
+          "#import": []
+        },
+        "win-arm64": {
           "#import": []
         },
         "win-x64": {

@@ -1,8 +1,0 @@
-C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Core\bin\Debug\TrainingApplication.Core.dll
-C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Core\bin\Debug\TrainingApplication.Core.pdb
-C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.dll
-C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.pdb
-D:\Csharp\WPF\WPFAndMVVMCourse\MultiDataTrigger\TrainingApplication\TrainingApplication.Core\bin\Debug\TrainingApplication.Core.dll
-D:\Csharp\WPF\WPFAndMVVMCourse\MultiDataTrigger\TrainingApplication\TrainingApplication.Core\bin\Debug\TrainingApplication.Core.pdb
-D:\Csharp\WPF\WPFAndMVVMCourse\MultiDataTrigger\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.dll
-D:\Csharp\WPF\WPFAndMVVMCourse\MultiDataTrigger\TrainingApplication\TrainingApplication.Core\obj\Debug\TrainingApplication.Core.pdb

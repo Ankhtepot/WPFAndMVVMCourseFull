@@ -48,3 +48,34 @@ C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplicatio
 C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.exe
 C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.pdb
 C:\Users\Kanthi_Pavan_dudday\source\repos\TrainingApplication\TrainingApplication.UI\bin\Debug\Data\France.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\Resources\filterselected.png
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\Data\France.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\TrainingApplication.UI.exe.config
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\TrainingApplication.UI.exe
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\TrainingApplication.UI.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\TrainingApplication.ViewModels.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\TrainingApplication.Models.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\TrainingApplication.Core.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\Newtonsoft.Json.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\TrainingApplication.ViewModels.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\TrainingApplication.Models.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\bin\Debug\TrainingApplication.Core.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.csproj.AssemblyReference.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\BindingsSampleWindow.g.cs
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\MainWindow.g.cs
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\StylesDemo.g.cs
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\App.g.cs
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI_Content.g.cs
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI_MarkupCompile.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI_MarkupCompile.lref
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\BindingsSampleWindow.baml
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\MainWindow.baml
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\StylesDemo.baml
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.g.resources
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.Properties.Resources.resources
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.csproj.GenerateResource.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.csproj.CoreCompileInputs.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\Training.001016B7.Up2Date
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.exe
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.UI\obj\Debug\TrainingApplication.UI.pdb

@@ -31,7 +31,7 @@ namespace TrainingApplication.ViewModels
 
             set
             {
-                this.itemSelected = value;
+                itemSelected = value;
                // MessageBox.Show(string.Format("The EmployeeViewModel Selected is {0} {1}", this.itemSelected.FirstName, this.itemSelected.LastName));
             }
         } 
@@ -48,27 +48,27 @@ namespace TrainingApplication.ViewModels
 
         public EmployeesViewModel()
         {
-            this.Employees = new ObservableCollection<EmployeeViewModel>();
-            this.HideEmail = true;
-            this.backgroundWorker.DoWork += FethData;
-            this.backgroundWorker.WorkerReportsProgress = true;
-            this.backgroundWorker.ProgressChanged += UpdateTheUserInterface;
-            this.backgroundWorker.RunWorkerCompleted += BackgroundWorker_RunWorkerCompleted;
+            Employees = new ObservableCollection<EmployeeViewModel>();
+            HideEmail = true;
+            backgroundWorker.DoWork += FethData;
+            backgroundWorker.WorkerReportsProgress = true;
+            backgroundWorker.ProgressChanged += UpdateTheUserInterface;
+            backgroundWorker.RunWorkerCompleted += BackgroundWorker_RunWorkerCompleted;
 
-            this.AddEmployee = new RelayCommand((parameter) => {
+            AddEmployee = new RelayCommand((parameter) => {
                 // Code to add new employees to the colleciton.
             });
 
             // this.CreateJSonDB();
 
-            this.LoadData = new RelayCommand((parameter) =>
+            LoadData = new RelayCommand((parameter) =>
             {
                 // Code to add new employees to the colleciton.
-                this.backgroundWorker.RunWorkerAsync();
+                backgroundWorker.RunWorkerAsync();
             });
 
             // Work With Selected Index.
-            this.ItemSelected = this.Employees.Where(item => item.FullName == "Hope Joy").FirstOrDefault();
+            ItemSelected = Employees.Where(item => item.FullName == "Hope Joy").FirstOrDefault();
         }
 
         private void BackgroundWorker_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
@@ -77,12 +77,12 @@ namespace TrainingApplication.ViewModels
 
         private void UpdateTheUserInterface(object sender, ProgressChangedEventArgs e)
         {
-            this.Employees.Add((EmployeeViewModel)e.UserState);
+            Employees.Add((EmployeeViewModel)e.UserState);
         }
 
         private void FethData(object sender, DoWorkEventArgs e)
         {
-            this.PopulateStaticData();
+            PopulateStaticData();
         }
 
         #region - Creating A Huge JSon DB. - Use this code to create your own sample data with first names and last names.
@@ -156,8 +156,8 @@ namespace TrainingApplication.ViewModels
                     foreach (var employee in organisation.Employees)
                     {
                         Thread.Sleep(200);
-                        this.backgroundWorker.ReportProgress(0, new EmployeeViewModel(employee));
-                        // this.Employees.Add(new EmployeeViewModel(employee));
+                        backgroundWorker.ReportProgress(0, new EmployeeViewModel(employee));
+                        // Employees.Add(new EmployeeViewModel(employee));
                     }
                 }
 

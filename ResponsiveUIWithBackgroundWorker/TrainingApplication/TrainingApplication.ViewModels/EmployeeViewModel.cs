@@ -14,90 +14,90 @@ namespace TrainingApplication.ViewModels
 
         public string FirstName
         {
-            get { return this.employee.FirstName; }
+            get { return employee.FirstName; }
             set
             {
-                this.employee.FirstName = value;
-                this.OnPropertyRaised("FirstName");
+                employee.FirstName = value;
+                OnPropertyRaised("FirstName");
             }
         }
 
         public string LastName
         {
-            get => this.employee.LastName; 
+            get => employee.LastName; 
             set
             {
-                this.employee.LastName = value;
+                employee.LastName = value;
                 // this.OnPropertyRaised("LastName");
             }
         }
 
 
-        public string FullName { get => this.employee.FullName;
+        public string FullName { get => employee.FullName;
             set
             {
-                this.employee.FullName = value;
-                this.OnPropertyRaised("FullName");
+                employee.FullName = value;
+                OnPropertyRaised("FullName");
             }
         }
 
 
-        public string UserId { get => this.employee.UserId; set
+        public string UserId { get => employee.UserId; set
             {
-                this.employee.UserId = value;
-                this.OnPropertyRaised("UserId");
+                employee.UserId = value;
+                OnPropertyRaised("UserId");
             }
         }
 
         public string JobTitle
         {
-            get => this.employee.JobTitle; set
+            get => employee.JobTitle; set
             {
-                this.employee.UserId = value;
-                this.OnPropertyRaised("JobTitle");
+                employee.UserId = value;
+                OnPropertyRaised("JobTitle");
             }
         }
 
         public string EmployeeCode
         {
-            get => this.employee.EmployeeCode; set
+            get => employee.EmployeeCode; set
             {
-                this.employee.EmployeeCode = value;
-                this.OnPropertyRaised("EmployeeCode");
+                employee.EmployeeCode = value;
+                OnPropertyRaised("EmployeeCode");
             }
         }
 
         public string EmailIdee
         {
-            get => this.employee.EmailIdee; set
+            get => employee.EmailIdee; set
             {
-                this.employee.EmailIdee = value;
-                this.OnPropertyRaised("EmailIdee");
+                employee.EmailIdee = value;
+                OnPropertyRaised("EmailIdee");
             }
         }
 
         public string Country
         {
-            get => this.employee.Country; set
+            get => employee.Country; set
             {
-                this.employee.Country = value;
-                this.OnPropertyRaised("Country");
+                employee.Country = value;
+                OnPropertyRaised("Country");
             }
         }
 
         public string Region
         {
-            get => this.employee.Region; set
+            get => employee.Region; set
             {
-                this.employee.Region = value;
-                this.OnPropertyRaised("Region");
+                employee.Region = value;
+                OnPropertyRaised("Region");
             }
         }
 
         public string Comment { get => comment; set
             {
-                this.comment = value;
-                this.OnPropertyRaised("Comment");
+                comment = value;
+                OnPropertyRaised("Comment");
             }
         }
 
@@ -105,27 +105,27 @@ namespace TrainingApplication.ViewModels
 
         public EmployeeViewModel(Employee model)
         {
-            this.employee = model;
-            this.Comment = "WPF Training";
+            employee = model;
+            Comment = "WPF Training";
             string temp = "Temp ";
 
-            this.ToggleTempValues = new RelayCommand((parameter) => {
+            ToggleTempValues = new RelayCommand((parameter) => {
                 // Code to add new employees to the colleciton.
-                if (this.FirstName.StartsWith(temp))
+                if (FirstName.StartsWith(temp))
                 {
-                    this.FirstName = this.FirstName.Remove(0, 5);
-                    this.LastName = this.LastName.Remove(0, 5);
-                    this.UserId = this.UserId.Remove(0, 5);
-                    this.FullName = this.FullName.Remove(0, 5);
-                    this.Comment = "Changes through code.";
+                    FirstName = FirstName.Remove(0, 5);
+                    LastName = LastName.Remove(0, 5);
+                    UserId = UserId.Remove(0, 5);
+                    FullName = FullName.Remove(0, 5);
+                    Comment = "Changes through code.";
                 }
                 else
                 {
-                    this.FirstName = temp + this.FirstName;
-                    this.LastName = temp + this.LastName;
-                    this.UserId = temp + this.UserId;
-                    this.FullName = temp + this.FullName;
-                    this.Comment = temp + "Changes through code.";
+                    FirstName = temp + FirstName;
+                    LastName = temp + LastName;
+                    UserId = temp + UserId;
+                    FullName = temp + FullName;
+                    Comment = temp + "Changes through code.";
                 }
 
             });

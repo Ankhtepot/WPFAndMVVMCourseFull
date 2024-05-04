@@ -25,3 +25,15 @@ D:\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplicat
 D:\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.csprojAssemblyReference.cache
 D:\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.dll
 D:\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\bin\Debug\Data\France.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\bin\Debug\Data\Germany.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\bin\Debug\Data\India.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\bin\Debug\Data\Israel.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\bin\Debug\Data\Spanish.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\bin\Debug\Data\UnitedStates.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\bin\Debug\TrainingApplication.Models.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\bin\Debug\TrainingApplication.Models.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.csproj.AssemblyReference.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.csproj.CoreCompileInputs.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\ResponsiveUIWithBackgroundWorker\TrainingApplication\TrainingApplication.Models\obj\Debug\TrainingApplication.Models.pdb

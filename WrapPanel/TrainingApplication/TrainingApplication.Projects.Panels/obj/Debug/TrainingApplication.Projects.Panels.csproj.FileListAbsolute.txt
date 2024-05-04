@@ -46,3 +46,28 @@ D:\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication
 D:\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.csproj.CopyComplete
 D:\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.exe
 D:\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\TrainingApplication.Projects.Panels.exe
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\TrainingApplication.Core.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\TrainingApplication.Models.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\TrainingApplication.ViewModels.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.csproj.AssemblyReference.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\MainWindow.g.cs
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\App.g.cs
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels_MarkupCompile.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels_MarkupCompile.lref
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.exe
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\Data\France.json
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\Images\someimage.jpg
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\TrainingApplication.Projects.Panels.exe.config
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\TrainingApplication.Projects.Panels.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\Newtonsoft.Json.dll
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\TrainingApplication.Core.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\TrainingApplication.Models.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\bin\Debug\TrainingApplication.ViewModels.pdb
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\MainWindow.baml
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.g.resources
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.Properties.Resources.resources
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.csproj.GenerateResource.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\TrainingApplication.Projects.Panels.csproj.CoreCompileInputs.cache
+E:\D disk\Csharp\WPF\WPFAndMVVMCourse\WrapPanel\TrainingApplication\TrainingApplication.Projects.Panels\obj\Debug\Training.5D8A6A69.Up2Date

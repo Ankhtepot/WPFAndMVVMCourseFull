@@ -1,48 +1,56 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {}
+    "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
-      "version": "1.0.0",
+    "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj",
+        "projectUniqueName": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj",
         "projectName": "TrainingApplication.Core",
-        "projectPath": "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
+        "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net48": {}
       }
     },
-    "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
-      "version": "1.0.0",
+    "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj",
+        "projectUniqueName": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj",
         "projectName": "TrainingApplication.Models",
-        "projectPath": "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
+        "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net48": {}
       }
     },
-    "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {
+    "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
+        "projectUniqueName": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
         "projectName": "TrainingApplication.ViewModels",
-        "projectPath": "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\Ankhtepot\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\obj\\",
+        "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\TrainingApplication.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\petrk\\.nuget\\packages\\",
+        "outputPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ankhtepot\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\petrk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net48"
@@ -54,11 +62,11 @@
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
-                "projectPath": "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
+              "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj": {
+                "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Core\\TrainingApplication.Core.csproj"
               },
-              "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
-                "projectPath": "D:\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
+              "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj": {
+                "projectPath": "E:\\D disk\\Csharp\\WPF\\WPFAndMVVMCourse\\StackPanel\\TrainingApplication\\TrainingApplication.Models\\TrainingApplication.Models.csproj"
               }
             }
           }
@@ -76,6 +84,9 @@
       },
       "runtimes": {
         "win": {
+          "#import": []
+        },
+        "win-arm64": {
           "#import": []
         },
         "win-x64": {
